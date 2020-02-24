@@ -1,0 +1,23 @@
+{
+  "name": "myBook",
+  "version": "1.0.0",
+  "description": "金庸名著 GitBook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoMster/myBook.git"
+  },
+  "keywords": [],
+  "author": "lihang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LeoMster/myBook/issues"
+  },
+  "homepage": "https://github.com/LeoMster/myBook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
